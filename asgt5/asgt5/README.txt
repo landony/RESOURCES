@@ -1,6 +1,6 @@
 GFXMath.h And transformations.cpp README
 
-Modified by: LEWEN YAO
+Modified by: LW.Y
 lewen.yao at gmail.com
 Date: 04/07/2015
 
