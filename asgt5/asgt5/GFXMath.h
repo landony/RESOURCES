@@ -1,6 +1,6 @@
 /*
- * Modified by: LEWEN YAO
- *lewen.yao at gmail.com
+ * Modified by: LW.Y
+ *
  *Date: 04/07/2015
  * Description: 
    the functions perspective(),rotate(),and lookat() are implemented and the Teapot can work fine. The rotate() function is a literal transcription of the Rodrigues'rotation furmula using the vector and matrix objects.
