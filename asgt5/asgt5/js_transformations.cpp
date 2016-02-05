@@ -1,6 +1,6 @@
 // 
-//Modified by: LEWEN YAO
-//lewen.yao at gmail.com
+//Modified by: LW.Y
+//
 //Date: 04/07/2015
 
 //
