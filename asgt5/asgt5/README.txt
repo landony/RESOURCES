@@ -1,7 +1,7 @@
 GFXMath.h And transformations.cpp README
 
 Modified by: LW.Y
-lewen.yao at gmail.com
+
 Date: 04/07/2015
 
 Program Completeness: Program is complete.
